@@ -16,7 +16,3 @@ Cargo.lock
 *.sublime-workspace
 .DS_Store
 
-# Screenshots (optional - remove if you want to include them)
-# screenshots/
-# Added entries (1 items)
-*.png

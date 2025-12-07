@@ -8,7 +8,7 @@ path = "examples/hex.rs"
 
 [package]
 name = "make_colors"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 authors = [ "Hadi Cahyadi <cumulus13@gmail.com>",]
 license = "MIT"
