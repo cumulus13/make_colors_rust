@@ -1,0 +1,25 @@
+[[example]]
+name = "basic"
+path = "examples/basic.rs"
+
+[[example]]
+name = "hex"
+path = "examples/hex.rs"
+
+[package]
+name = "make_colors"
+version = "1.0.1"
+edition = "2021"
+authors = [ "Hadi Cahyadi <cumulus13@gmail.com>",]
+license = "MIT"
+description = "A simple, powerful and cross-platform Rust library for adding colors to your terminal output with support for hex colors, RGB, and rich markup"
+repository = "https://github.com/cumulus13/make_colors_rust"
+documentation = "https://docs.rs/make_colors"
+homepage = "https://github.com/cumulus13/make_colors_rust"
+readme = "README.md"
+keywords = [ "colors", "terminal", "ansi", "formatting", "truecolor",]
+categories = [ "command-line-interface", "development-tools",]
+
+[dependencies]
+
+[dev-dependencies]

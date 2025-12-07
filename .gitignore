@@ -1,0 +1,22 @@
+/target
+# PT backup directory
+.pt/
+
+# Added entries (1 items)
+*sublime*
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+.DS_Store
+
+# Screenshots (optional - remove if you want to include them)
+# screenshots/
+# Added entries (1 items)
+*.png
